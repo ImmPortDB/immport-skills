@@ -8,6 +8,15 @@
     "url": "https://www.immport.org"
   },
   "homepage": "https://www.immport.org",
-  "keywords": ["immport", "immunology", "niaid", "research data"],
-  "skills": ["./skills/"]
+  "keywords": [
+    "immport",
+    "immunology",
+    "niaid",
+    "research data"
+  ],
+  "skills": [
+    "./skills/"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/ImmPortDB/immport-skills"
 }
