@@ -1,0 +1,15 @@
+{
+  "name": "immport",
+  "owner": {
+    "name": "ImmPort",
+    "url": "https://www.immport.org"
+  },
+  "description": "Claude plugins and skills for ImmPort, the NIAID immunology data repository",
+  "plugins": [
+    {
+      "name": "immport",
+      "source": "./plugins/immport",
+      "description": "The ImmPort MCP server (immport-mcp) with skills for finding, comparing and analysing ImmPort studies"
+    }
+  ]
+}

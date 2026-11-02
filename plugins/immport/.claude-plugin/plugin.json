@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "immport",
+  "version": "0.1.0",
+  "description": "Search, compare and analyse ImmPort immunology studies: the immport-mcp server plus skills for study exploration and Tab.zip analysis",
+  "author": {
+    "name": "ImmPort",
+    "url": "https://www.immport.org"
+  },
+  "homepage": "https://www.immport.org",
+  "keywords": ["immport", "immunology", "niaid", "research data"],
+  "skills": ["./skills/"]
+}

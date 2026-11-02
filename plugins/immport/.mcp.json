@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "immport": {
+      "command": "uvx",
+      "args": ["immport-mcp"],
+      "env": {
+        "IMMPORT_API_KEY": "${IMMPORT_API_KEY}"
+      }
+    }
+  }
+}
