@@ -23,7 +23,7 @@ Skills for preparing and validating data submissions will be added here as ImmPo
 
 ```bash
 export IMMPORT_API_KEY=<your key>     # from https://www.immport.org/auth/api/keys (valid 30 days)
-claude plugin marketplace add <org>/immport-skills
+claude plugin marketplace add ImmPortDB/immport-skills
 claude plugin install immport@immport
 ```
 
